@@ -1,0 +1,59 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B83C-BCC6
+
+ Directory of C:\Python_Programs
+
+09.02.2020  10:23 AM    <DIR>          .
+09.02.2020  10:23 AM    <DIR>          ..
+08.02.2020  07:31 PM    <DIR>          .idea
+06.01.2020  06:48 PM                32 a.pickle
+23.11.2019  07:37 PM             1,830 add.py
+09.01.2020  07:22 PM             1,863 Anonymous_Lambda.py
+23.01.2020  10:34 PM               370 Assert_statements.py
+04.02.2020  09:51 AM             1,758 Built_in_Methods.py
+07.01.2020  07:42 PM             1,969 Class_def_methods.py
+02.10.2019  11:00 PM               690 concatenation.py
+01.12.2019  08:22 PM               555 decorators_function.py
+01.12.2019  08:42 PM               276 decorators_function2.py
+23.01.2020  05:22 PM               255 decorator_writing_results_to_file.py
+30.01.2020  09:23 AM             1,890 dictionary.py
+04.12.2019  07:16 PM                 3 family_age.csv
+06.01.2020  09:56 PM               597 fibo_series.py
+08.02.2020  08:34 PM                62 for_Jenkins.py
+22.11.2019  11:11 AM             2,200 Functions.py
+05.12.2019  07:52 PM               139 generator1.py
+04.02.2020  12:02 PM             1,244 Generators2.py
+07.12.2019  09:38 PM               120 iterator1.py
+23.01.2020  05:03 PM                36 Jan_23rd.txt
+28.01.2020  09:43 PM             2,223 Lists.py
+07.01.2020  06:11 PM                65 module_importing.py
+03.12.2019  09:07 PM           378,887 multi_user.csv
+03.12.2019  09:07 PM           378,887 multi_user_copy.xlsx.csv
+25.11.2019  06:39 PM    <DIR>          New Folder
+05.12.2019  08:44 PM                23 new.txt
+29.01.2020  08:40 PM             1,062 Oops1_Method_overriding.py
+31.01.2020  10:01 PM             1,492 Oops2_Method_Overloading.py
+25.11.2019  08:19 PM               304 Prime_or_Not.py
+15.04.2018  10:30 AM                92 py_prog1.py
+04.12.2019  07:26 PM               783 reading_csv.py
+25.11.2019  07:53 PM               757 regex.py
+06.01.2020  10:29 PM             2,620 sample.py
+04.12.2019  07:33 PM             2,236 sample2.py
+01.12.2019  10:10 PM             1,256 sample3.txt.py
+03.12.2019  09:29 AM               398 sim_cal.py
+16.12.2019  01:42 PM             2,953 Speech_recognition.py
+04.12.2019  05:26 PM             2,882 string.py
+29.09.2015  04:57 PM               341 string.pyc
+30.01.2020  10:31 AM               112 String_Methods.py
+25.11.2019  09:16 PM               447 System_Operations.py
+28.08.2015  03:01 PM               267 test1.py
+09.02.2020  10:23 AM                 0 test1.txt
+07.12.2019  09:56 PM               982 test21.py
+30.11.2019  05:53 PM               284 test3.robot
+14.12.2019  06:38 PM             4,859 test4.py
+25.11.2019  09:48 PM                42 testing.txt
+28.01.2020  04:51 PM               164 tupple_examples.py
+03.12.2019  09:13 PM               766 writing_to_csv.py
+07.01.2020  06:11 PM    <DIR>          __pycache__
+              47 File(s)        801,073 bytes
+               5 Dir(s)  49,081,483,264 bytes free
