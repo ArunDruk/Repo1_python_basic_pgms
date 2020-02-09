@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/API_automation/.idea/API_automation.iml" filepath="E:/API_automation/.idea/API_automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../List_of_programs/.idea/List_of_programs.iml" filepath="$PROJECT_DIR$/../List_of_programs/.idea/List_of_programs.iml" />
+      <module fileurl="file://E:/Mobile_Automation/.idea/Mobile_Automation.iml" filepath="E:/Mobile_Automation/.idea/Mobile_Automation.iml" />
+      <module fileurl="file://E:/PYTEST_test_programs/.idea/PYTEST_test_programs.iml" filepath="E:/PYTEST_test_programs/.idea/PYTEST_test_programs.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/Pratice_Pgms/.idea/Pratice_Pgms.iml" filepath="$USER_HOME$/PycharmProjects/Pratice_Pgms/.idea/Pratice_Pgms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python_Programs.iml" filepath="$PROJECT_DIR$/.idea/Python_Programs.iml" />
+      <module fileurl="file://E:/Test/.idea/Test.iml" filepath="E:/Test/.idea/Test.iml" />
+      <module fileurl="file://E:/Web_Browser_programs/.idea/Web_Browser_programs.iml" filepath="E:/Web_Browser_programs/.idea/Web_Browser_programs.iml" />
+    </modules>
+  </component>
+</project>
